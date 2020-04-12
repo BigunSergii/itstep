@@ -1,7 +1,7 @@
 from random import randint
 arra2 =[]
 y = 1
-n = 9
+n = 20
 while y < n:
     arra2.append(randint(-10, 90))
     y +=1
