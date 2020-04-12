@@ -1,7 +1,7 @@
 from random import randint
 arra2 =[]
 y = 1
-n = 7
+n = 5
 d = 0
 while y <= n:
     arra2.append(randint(-12, 50))
