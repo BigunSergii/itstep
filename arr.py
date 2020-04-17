@@ -1,11 +1,10 @@
 from random import randint
 arra2 =[]
 y = 1
-n = 10
-d = 0
+n = 4
 while y <= n:
-    arra2.append(randint(-1, 90))
-    y +=1
+    arra2.append(randint(1, 100))
+    y *=1
 c = sum(arra2)
-print (arra2, "Summa arra2 = ", c)
+print (arra2, "Dobutok arra2 = ", c)
 print("hello world")
